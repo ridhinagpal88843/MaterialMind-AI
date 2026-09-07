@@ -1,0 +1,18 @@
+column_name,data_type,missing_values,missing_percentage,unique_values,is_numeric,min_val,max_val,mean_val,median_val,std_dev,units
+material_id,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,Identifier (Materials Project ID)
+formula,str,0,0.0,964,False,N/A,N/A,N/A,N/A,N/A,Chemical Formula
+nsites,int64,0,0.0,15,True,2.0,20.0,7.5303,8.0,3.3884,Count (atoms/unit cell)
+space_group,int64,0,0.0,85,True,1.0,229.0,142.9706,163.0,67.2646,Crystallographic Space Group (1-230)
+volume,float64,0,0.0,1056,True,13.9805,597.3411,166.4204,145.9447,97.4251,Å³ (Unit cell volume)
+band_gap,float64,0,0.0,452,True,0.11,8.32,2.1194,1.73,1.6049,eV (Bandgap Energy)
+e_electronic,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,Tensor (3x3 high-freq permittivity)
+e_total,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,Tensor (3x3 static permittivity)
+n,float64,0,0.0,290,True,1.28,16.03,2.4349,2.19,1.1488,Dimensionless (Refractive index)
+poly_electronic,float64,0,0.0,642,True,1.63,256.84,7.248,4.79,13.0549,Dimensionless (ε∞ optical dielectric)
+poly_total,float64,0,0.0,811,True,2.08,277.78,14.7779,10.54,19.4353,Dimensionless (εr static permittivity)
+pot_ferroelectric,bool,0,0.0,2,True,0.0,1.0,0.6714,1.0,0.4699,Boolean (Ferroelectricity indicator)
+cif,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,Crystallographic Information file format
+meta,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,JSON metadata descriptor
+poscar,str,0,0.0,1056,False,N/A,N/A,N/A,N/A,N/A,VASP POSCAR structure string
+density,float64,0,0.0,1046,True,0.747,11.4514,4.1868,3.9299,1.6693,g/cm³ (Mass density)
+poly_ionic,float64,0,0.0,705,True,0.0,248.59,7.5298,4.93,12.8916,Dimensionless (ε_ionic = εr - ε∞)

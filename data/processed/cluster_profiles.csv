@@ -1,0 +1,5 @@
+cluster_id,material_count,percentage,band_gap_mean,poly_total_mean,poly_electronic_mean,ionic_polarization_fraction_mean,density_mean,volume_mean,band_gap_median,poly_total_median,poly_electronic_median,ionic_polarization_fraction_median,density_median,volume_median
+0,412,39.02,1.1323,17.7958,9.8792,0.4013,5.4336,131.7629,1.045,13.315,7.365,0.4069,5.2422,125.7074
+1,248,23.48,1.5922,11.2105,5.5276,0.4474,3.3694,296.1906,1.29,9.675,4.685,0.442,3.3566,277.066
+2,388,36.74,3.5429,10.5333,3.3219,0.6141,3.3413,120.4773,3.24,8.37,2.985,0.6248,3.2309,116.1656
+3,8,0.76,0.2625,175.8088,115.4988,0.3013,6.3193,156.6457,0.165,160.84,94.21,0.1142,5.8647,137.8519

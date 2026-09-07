@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: materialmind-ai
+    runtime: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 8000

@@ -1,0 +1,8 @@
+{
+  "optimal_k": 4,
+  "inertia": 3425.07,
+  "silhouette_score": 0.2351,
+  "davies_bouldin_score": 1.1078,
+  "calinski_harabasz_score": 298.03,
+  "source": "Validated empirical results from Phase 4 K-Means sweep (K=2 to 8)"
+}

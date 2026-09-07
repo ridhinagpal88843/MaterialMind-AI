@@ -1,0 +1,407 @@
+material_id,formula,feature,value,direction,threshold,iqr,iqr_distance,scientific_rationale
+mp-1778,BeO,band_gap,6.85,Upper,5.8775,1.995,0.49,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-1818,SiF4,band_gap,7.72,Upper,5.8775,1.995,0.92,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-23267,BeCl2,band_gap,6.33,Upper,5.8775,1.995,0.23,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8511,PF5,band_gap,7.09,Upper,5.8775,1.995,0.61,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-558118,BeF2,band_gap,8.09,Upper,5.8775,1.995,1.11,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-20066,CO2,band_gap,6.63,Upper,5.8775,1.995,0.38,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-468,AlF3,band_gap,7.6,Upper,5.8775,1.995,0.86,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-23739,SiH4,band_gap,6.56,Upper,5.8775,1.995,0.34,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-306,B2O3,band_gap,6.3,Upper,5.8775,1.995,0.21,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-10694,ScF3,band_gap,6.07,Upper,5.8775,1.995,0.1,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-15951,BeF2,band_gap,8.32,Upper,5.8775,1.995,1.22,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-5347,KAlF4,band_gap,6.79,Upper,5.8775,1.995,0.46,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-7104,CsCaF3,band_gap,6.9,Upper,5.8775,1.995,0.51,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-31212,K2MgF4,band_gap,6.41,Upper,5.8775,1.995,0.27,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8402,RbMgF3,band_gap,6.94,Upper,5.8775,1.995,0.53,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-3448,KMgF3,band_gap,6.95,Upper,5.8775,1.995,0.54,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-13947,Rb2HfF6,band_gap,7.13,Upper,5.8775,1.995,0.63,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-3042,K2SiF6,band_gap,7.22,Upper,5.8775,1.995,0.67,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-14232,LiBO2,band_gap,7.28,Upper,5.8775,1.995,0.7,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-27837,NaHF2,band_gap,6.81,Upper,5.8775,1.995,0.47,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-22957,SrClF,band_gap,5.94,Upper,5.8775,1.995,0.03,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-10474,NaPF6,band_gap,7.01,Upper,5.8775,1.995,0.57,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8812,Rb2GeF6,band_gap,5.97,Upper,5.8775,1.995,0.05,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8217,Cs2GeF6,band_gap,6.03,Upper,5.8775,1.995,0.08,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-5479,RbAlF4,band_gap,6.88,Upper,5.8775,1.995,0.5,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8001,LiAlO2,band_gap,6.12,Upper,5.8775,1.995,0.12,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-28473,CClF3,band_gap,6.61,Upper,5.8775,1.995,0.37,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-4608,KPF6,band_gap,7.02,Upper,5.8775,1.995,0.57,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-3654,RbCaF3,band_gap,6.4,Upper,5.8775,1.995,0.26,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-8861,Rb2MgF4,band_gap,6.23,Upper,5.8775,1.995,0.18,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-9143,LiPF6,band_gap,7.54,Upper,5.8775,1.995,0.83,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-3589,BPO4,band_gap,7.26,Upper,5.8775,1.995,0.69,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-10492,Rb2SiF6,band_gap,6.99,Upper,5.8775,1.995,0.56,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-13948,Cs2HfF6,band_gap,7.23,Upper,5.8775,1.995,0.68,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-5588,BaSiF6,band_gap,7.42,Upper,5.8775,1.995,0.77,Wide-bandgap ultra-insulator / deep UV optical window (e.g. fluorides/oxides)
+mp-2693,SnSe,poly_total,45.7,Upper,27.37,7.925,2.31,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-1186,ZrS2,poly_total,35.9,Upper,27.37,7.925,1.08,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2114,YN,poly_total,120.01,Upper,27.37,7.925,11.69,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2646,Mg3Sb2,poly_total,32.38,Upper,27.37,7.925,0.63,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-760,FeSe2,poly_total,36.83,Upper,27.37,7.925,1.19,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-1522,FeS2,poly_total,27.48,Upper,27.37,7.925,0.01,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-1106,Sr2Si,poly_total,32.16,Upper,27.37,7.925,0.6,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-871,FeSi,poly_total,112.34,Upper,27.37,7.925,10.72,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-1317,CoSb3,poly_total,92.27,Upper,27.37,7.925,8.19,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-23237,BiF3,poly_total,41.19,Upper,27.37,7.925,1.74,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-23291,PbCl2,poly_total,34.55,Upper,27.37,7.925,0.91,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-27488,Ta3N5,poly_total,48.48,Upper,27.37,7.925,2.66,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-22908,BiCl3,poly_total,60.46,Upper,27.37,7.925,4.18,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2517,Ca2Si,poly_total,29.42,Upper,27.37,7.925,0.26,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2160,Sb2Se3,poly_total,63.53,Upper,27.37,7.925,4.56,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2076,ZrSe2,poly_total,58.33,Upper,27.37,7.925,3.91,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-557835,TlF,poly_total,57.69,Upper,27.37,7.925,3.83,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-554278,TiO2,poly_total,35.47,Upper,27.37,7.925,1.02,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2008,FeAs2,poly_total,48.93,Upper,27.37,7.925,2.72,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-304,Ca2Ge,poly_total,29.9,Upper,27.37,7.925,0.32,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-20027,FeP2,poly_total,37.6,Upper,27.37,7.925,1.29,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-558134,TlF,poly_total,39.49,Upper,27.37,7.925,1.53,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-23222,Li3Bi,poly_total,27.41,Upper,27.37,7.925,0.01,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-15661,Sc4C3,poly_total,76.72,Upper,27.37,7.925,6.23,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-15649,As2Ir,poly_total,28.91,Upper,27.37,7.925,0.19,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-1247,Sb2Ir,poly_total,34.62,Upper,27.37,7.925,0.91,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-569152,SnCl2,poly_total,54.82,Upper,27.37,7.925,3.46,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-226,FeS2,poly_total,28.24,Upper,27.37,7.925,0.11,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-8281,Ba(CdAs)2,poly_total,110.48,Upper,27.37,7.925,10.49,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-30460,YNiBi,poly_total,29.37,Upper,27.37,7.925,0.25,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-9919,LiZnSb,poly_total,34.18,Upper,27.37,7.925,0.86,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-10667,SrAgP,poly_total,277.78,Upper,27.37,7.925,31.6,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-15687,KZnAs,poly_total,38.01,Upper,27.37,7.925,1.34,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-27832,Tl2SnCl6,poly_total,100.8,Upper,27.37,7.925,9.27,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7482,RbHgF3,poly_total,77.88,Upper,27.37,7.925,6.37,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7223,Ca3AsN,poly_total,38.3,Upper,27.37,7.925,1.38,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-862631,Ba2SbAu,poly_total,32.41,Upper,27.37,7.925,0.64,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-25010,NaMnO2,poly_total,27.41,Upper,27.37,7.925,0.01,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-15988,Li2CuSb,poly_total,28.8,Upper,27.37,7.925,0.18,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-510624,SrFeO3,poly_total,70.86,Upper,27.37,7.925,5.49,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7435,KCuSe,poly_total,52.03,Upper,27.37,7.925,3.11,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-867192,Sr2AsAu,poly_total,40.06,Upper,27.37,7.925,1.6,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-8978,CsNbN2,poly_total,27.92,Upper,27.37,7.925,0.07,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-867168,Sr2SbAu,poly_total,35.08,Upper,27.37,7.925,0.97,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-5606,AlTlF4,poly_total,96.91,Upper,27.37,7.925,8.77,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7421,KZnAs,poly_total,40.07,Upper,27.37,7.925,1.6,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-20042,TlInS2,poly_total,45.63,Upper,27.37,7.925,2.3,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-5380,Ca4P2O,poly_total,31.26,Upper,27.37,7.925,0.49,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7752,Sr3SbN,poly_total,38.53,Upper,27.37,7.925,1.41,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-614013,CsSnI3,poly_total,169.58,Upper,27.37,7.925,17.94,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-27891,Bi2SO2,poly_total,259.32,Upper,27.37,7.925,29.27,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-505297,NbSbRu,poly_total,38.63,Upper,27.37,7.925,1.42,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7771,Sr(CdAs)2,poly_total,149.16,Upper,27.37,7.925,15.37,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-27849,TiBrN,poly_total,49.04,Upper,27.37,7.925,2.73,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-3395,SrSeO3,poly_total,29.11,Upper,27.37,7.925,0.22,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-9899,BaAgP,poly_total,42.93,Upper,27.37,7.925,1.96,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-866062,HfSiRu2,poly_total,81.95,Upper,27.37,7.925,6.89,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-866141,TiFe2Si,poly_total,66.11,Upper,27.37,7.925,4.89,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-4255,Ba(CuS)2,poly_total,29.33,Upper,27.37,7.925,0.25,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-9517,SrTiN2,poly_total,30.2,Upper,27.37,7.925,0.36,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-8407,Li3LaP2,poly_total,31.35,Upper,27.37,7.925,0.5,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-570008,Sr3BiN,poly_total,46.59,Upper,27.37,7.925,2.43,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-10322,BaHfN2,poly_total,29.96,Upper,27.37,7.925,0.33,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-31454,TaSbRu,poly_total,32.43,Upper,27.37,7.925,0.64,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-10402,TiTl2F6,poly_total,42.08,Upper,27.37,7.925,1.86,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7430,Ca(CdSb)2,poly_total,51.78,Upper,27.37,7.925,3.08,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-12908,ScAgSe2,poly_total,28.61,Upper,27.37,7.925,0.16,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-866132,Na2TlSb,poly_total,172.52,Upper,27.37,7.925,18.32,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-10401,Tl2SnF6,poly_total,41.75,Upper,27.37,7.925,1.81,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-31149,Ca3BiN,poly_total,34.28,Upper,27.37,7.925,0.87,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7438,KZnSb,poly_total,30.09,Upper,27.37,7.925,0.34,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-7067,Ca(CdAs)2,poly_total,52.52,Upper,27.37,7.925,3.17,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-11824,Ca3PN,poly_total,50.66,Upper,27.37,7.925,2.94,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-5967,TiCoSb,poly_total,31.72,Upper,27.37,7.925,0.55,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-23072,BiBrO,poly_total,46.77,Upper,27.37,7.925,2.45,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-27850,TiNCl,poly_total,59.43,Upper,27.37,7.925,4.05,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-12814,Ba3SbN,poly_total,41.81,Upper,27.37,7.925,1.82,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-14791,Ge2Te5As2,poly_total,79.7,Upper,27.37,7.925,6.6,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-9437,NbFeSb,poly_total,45.23,Upper,27.37,7.925,2.25,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-10161,KZnSb,poly_total,29.0,Upper,27.37,7.925,0.21,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-8405,Li3LaSb2,poly_total,31.22,Upper,27.37,7.925,0.49,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-16238,Li2AgSb,poly_total,232.6,Upper,27.37,7.925,25.9,High-k dielectric / soft-mode ferroelectric perovskite candidate
+mp-2693,SnSe,poly_electronic,45.7,Upper,13.905,4.31,7.38,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2114,YN,poly_electronic,15.43,Upper,13.905,4.31,0.35,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1115,PtSe2,poly_electronic,15.28,Upper,13.905,4.31,0.32,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1285,PtO2,poly_electronic,21.34,Upper,13.905,4.31,1.73,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2646,Mg3Sb2,poly_electronic,14.8,Upper,13.905,4.31,0.21,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-760,FeSe2,poly_electronic,26.7,Upper,13.905,4.31,2.97,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1522,FeS2,poly_electronic,21.06,Upper,13.905,4.31,1.66,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-471,CdAs2,poly_electronic,15.19,Upper,13.905,4.31,0.3,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-602,Te2Mo,poly_electronic,14.24,Upper,13.905,4.31,0.08,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-28266,P2Pd,poly_electronic,22.6,Upper,13.905,4.31,2.02,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-927,CuP2,poly_electronic,16.3,Upper,13.905,4.31,0.56,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-487,MnP4,poly_electronic,19.51,Upper,13.905,4.31,1.3,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1106,Sr2Si,poly_electronic,16.87,Upper,13.905,4.31,0.69,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-871,FeSi,poly_electronic,90.79,Upper,13.905,4.31,17.84,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2030,RuS2,poly_electronic,16.69,Upper,13.905,4.31,0.65,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1317,CoSb3,poly_electronic,81.92,Upper,13.905,4.31,15.78,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-730,P2Pt,poly_electronic,19.65,Upper,13.905,4.31,1.33,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-570553,FeP4,poly_electronic,19.47,Upper,13.905,4.31,1.29,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1922,RuSe2,poly_electronic,19.58,Upper,13.905,4.31,1.32,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2517,Ca2Si,poly_electronic,15.76,Upper,13.905,4.31,0.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2160,Sb2Se3,poly_electronic,15.76,Upper,13.905,4.31,0.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-17173,Rh2S3,poly_electronic,25.29,Upper,13.905,4.31,2.64,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2008,FeAs2,poly_electronic,30.62,Upper,13.905,4.31,3.88,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-304,Ca2Ge,poly_electronic,16.56,Upper,13.905,4.31,0.62,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-20027,FeP2,poly_electronic,23.05,Upper,13.905,4.31,2.12,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-15661,Sc4C3,poly_electronic,28.67,Upper,13.905,4.31,3.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-15649,As2Ir,poly_electronic,21.36,Upper,13.905,4.31,1.73,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1247,Sb2Ir,poly_electronic,24.86,Upper,13.905,4.31,2.54,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7944,NaSb,poly_electronic,14.14,Upper,13.905,4.31,0.05,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-226,FeS2,poly_electronic,21.21,Upper,13.905,4.31,1.69,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-8281,Ba(CdAs)2,poly_electronic,97.63,Upper,13.905,4.31,19.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-29209,Ba(MgBi)2,poly_electronic,17.09,Upper,13.905,4.31,0.74,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-30460,YNiBi,poly_electronic,26.76,Upper,13.905,4.31,2.98,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-11869,HfSnPd,poly_electronic,19.63,Upper,13.905,4.31,1.33,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-22998,CrSBr,poly_electronic,15.92,Upper,13.905,4.31,0.47,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9919,LiZnSb,poly_electronic,19.6,Upper,13.905,4.31,1.32,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-10667,SrAgP,poly_electronic,256.84,Upper,13.905,4.31,56.37,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-15687,KZnAs,poly_electronic,33.0,Upper,13.905,4.31,4.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-14983,Si4P4Ru,poly_electronic,15.17,Upper,13.905,4.31,0.29,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9124,LiZnAs,poly_electronic,15.95,Upper,13.905,4.31,0.47,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-8208,Mg(PtO2)3,poly_electronic,15.02,Upper,13.905,4.31,0.26,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-862631,Ba2SbAu,poly_electronic,18.82,Upper,13.905,4.31,1.14,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7773,Na2AsAu,poly_electronic,15.93,Upper,13.905,4.31,0.47,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7770,Sr(ZnAs)2,poly_electronic,15.47,Upper,13.905,4.31,0.36,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9198,Fe(SiP)4,poly_electronic,17.0,Upper,13.905,4.31,0.72,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-3161,LiAlSi,poly_electronic,15.55,Upper,13.905,4.31,0.38,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-13097,NaZnAs,poly_electronic,16.71,Upper,13.905,4.31,0.65,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-570213,LiMgBi,poly_electronic,19.53,Upper,13.905,4.31,1.31,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-3432,ScNiSb,poly_electronic,18.37,Upper,13.905,4.31,1.04,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-15988,Li2CuSb,poly_electronic,19.9,Upper,13.905,4.31,1.39,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-510624,SrFeO3,poly_electronic,53.41,Upper,13.905,4.31,9.17,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-8207,Zn(PtO2)3,poly_electronic,15.76,Upper,13.905,4.31,0.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7435,KCuSe,poly_electronic,45.99,Upper,13.905,4.31,7.44,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-867192,Sr2AsAu,poly_electronic,22.62,Upper,13.905,4.31,2.02,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-867168,Sr2SbAu,poly_electronic,22.35,Upper,13.905,4.31,1.96,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-29208,Ca(MgBi)2,poly_electronic,16.75,Upper,13.905,4.31,0.66,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7421,KZnAs,poly_electronic,34.68,Upper,13.905,4.31,4.82,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-2894,ScSnAu,poly_electronic,21.44,Upper,13.905,4.31,1.75,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-8212,Cd(PtO2)3,poly_electronic,17.37,Upper,13.905,4.31,0.8,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-569779,ScSbPd,poly_electronic,18.17,Upper,13.905,4.31,0.99,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-505297,NbSbRu,poly_electronic,23.05,Upper,13.905,4.31,2.12,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7771,Sr(CdAs)2,poly_electronic,137.1,Upper,13.905,4.31,28.58,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9899,BaAgP,poly_electronic,28.2,Upper,13.905,4.31,3.32,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-866062,HfSiRu2,poly_electronic,51.23,Upper,13.905,4.31,8.66,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-866141,TiFe2Si,poly_electronic,37.31,Upper,13.905,4.31,5.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9571,Ca(ZnAs)2,poly_electronic,14.4,Upper,13.905,4.31,0.11,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7173,ScSbPt,poly_electronic,19.25,Upper,13.905,4.31,1.24,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-570008,Sr3BiN,poly_electronic,20.08,Upper,13.905,4.31,1.43,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-31454,TaSbRu,poly_electronic,19.7,Upper,13.905,4.31,1.34,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-30847,TiSnPt,poly_electronic,20.81,Upper,13.905,4.31,1.6,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7430,Ca(CdSb)2,poly_electronic,39.14,Upper,13.905,4.31,5.85,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-866132,Na2TlSb,poly_electronic,36.37,Upper,13.905,4.31,5.21,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-865101,NaLi2Bi,poly_electronic,16.51,Upper,13.905,4.31,0.6,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-31149,Ca3BiN,poly_electronic,15.9,Upper,13.905,4.31,0.46,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7438,KZnSb,poly_electronic,24.78,Upper,13.905,4.31,2.52,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-7067,Ca(CdAs)2,poly_electronic,39.5,Upper,13.905,4.31,5.94,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-5967,TiCoSb,poly_electronic,20.48,Upper,13.905,4.31,1.53,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-11520,YNiSb,poly_electronic,18.75,Upper,13.905,4.31,1.12,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-14791,Ge2Te5As2,poly_electronic,64.62,Upper,13.905,4.31,11.77,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-9437,NbFeSb,poly_electronic,24.82,Upper,13.905,4.31,2.53,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-10161,KZnSb,poly_electronic,24.12,Upper,13.905,4.31,2.37,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-31235,BaNaBi,poly_electronic,15.27,Upper,13.905,4.31,0.32,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-8405,Li3LaSb2,poly_electronic,16.21,Upper,13.905,4.31,0.53,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-30459,ScNiBi,poly_electronic,22.95,Upper,13.905,4.31,2.1,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-16238,Li2AgSb,poly_electronic,212.61,Upper,13.905,4.31,46.1,High electronic polarizability / narrow-gap heavy-anion semiconductor
+mp-1186,ZrS2,poly_ionic,27.85,Upper,14.9775,4.705,2.74,Strong lattice polarizability / ionic soft-mode contribution
+mp-2114,YN,poly_ionic,104.58,Upper,14.9775,4.705,19.04,Strong lattice polarizability / ionic soft-mode contribution
+mp-2646,Mg3Sb2,poly_ionic,17.58,Upper,14.9775,4.705,0.55,Strong lattice polarizability / ionic soft-mode contribution
+mp-1106,Sr2Si,poly_ionic,15.29,Upper,14.9775,4.705,0.07,Strong lattice polarizability / ionic soft-mode contribution
+mp-871,FeSi,poly_ionic,21.55,Upper,14.9775,4.705,1.4,Strong lattice polarizability / ionic soft-mode contribution
+mp-23237,BiF3,poly_ionic,37.65,Upper,14.9775,4.705,4.82,Strong lattice polarizability / ionic soft-mode contribution
+mp-23291,PbCl2,poly_ionic,29.84,Upper,14.9775,4.705,3.16,Strong lattice polarizability / ionic soft-mode contribution
+mp-2858,ZrO2,poly_ionic,15.93,Upper,14.9775,4.705,0.2,Strong lattice polarizability / ionic soft-mode contribution
+mp-27488,Ta3N5,poly_ionic,37.65,Upper,14.9775,4.705,4.82,Strong lattice polarizability / ionic soft-mode contribution
+mp-22908,BiCl3,poly_ionic,56.53,Upper,14.9775,4.705,8.83,Strong lattice polarizability / ionic soft-mode contribution
+mp-7595,GeF2,poly_ionic,21.02,Upper,14.9775,4.705,1.28,Strong lattice polarizability / ionic soft-mode contribution
+mp-720,TlF,poly_ionic,17.11,Upper,14.9775,4.705,0.45,Strong lattice polarizability / ionic soft-mode contribution
+mp-2160,Sb2Se3,poly_ionic,47.77,Upper,14.9775,4.705,6.97,Strong lattice polarizability / ionic soft-mode contribution
+mp-2076,ZrSe2,poly_ionic,46.03,Upper,14.9775,4.705,6.6,Strong lattice polarizability / ionic soft-mode contribution
+mp-557835,TlF,poly_ionic,53.67,Upper,14.9775,4.705,8.22,Strong lattice polarizability / ionic soft-mode contribution
+mp-554278,TiO2,poly_ionic,29.27,Upper,14.9775,4.705,3.04,Strong lattice polarizability / ionic soft-mode contribution
+mp-2008,FeAs2,poly_ionic,18.31,Upper,14.9775,4.705,0.71,Strong lattice polarizability / ionic soft-mode contribution
+mp-862868,PbBr2,poly_ionic,17.09,Upper,14.9775,4.705,0.45,Strong lattice polarizability / ionic soft-mode contribution
+mp-634859,CaO2,poly_ionic,16.25,Upper,14.9775,4.705,0.27,Strong lattice polarizability / ionic soft-mode contribution
+mp-684969,Sc2S3,poly_ionic,15.95,Upper,14.9775,4.705,0.21,Strong lattice polarizability / ionic soft-mode contribution
+mp-558134,TlF,poly_ionic,35.49,Upper,14.9775,4.705,4.36,Strong lattice polarizability / ionic soft-mode contribution
+mp-15661,Sc4C3,poly_ionic,48.05,Upper,14.9775,4.705,7.03,Strong lattice polarizability / ionic soft-mode contribution
+mp-569152,SnCl2,poly_ionic,50.45,Upper,14.9775,4.705,7.54,Strong lattice polarizability / ionic soft-mode contribution
+mp-37879,LiYSe2,poly_ionic,17.26,Upper,14.9775,4.705,0.49,Strong lattice polarizability / ionic soft-mode contribution
+mp-10667,SrAgP,poly_ionic,20.94,Upper,14.9775,4.705,1.27,Strong lattice polarizability / ionic soft-mode contribution
+mp-27832,Tl2SnCl6,poly_ionic,97.28,Upper,14.9775,4.705,17.49,Strong lattice polarizability / ionic soft-mode contribution
+mp-7482,RbHgF3,poly_ionic,74.86,Upper,14.9775,4.705,12.73,Strong lattice polarizability / ionic soft-mode contribution
+mp-7223,Ca3AsN,poly_ionic,28.51,Upper,14.9775,4.705,2.88,Strong lattice polarizability / ionic soft-mode contribution
+mp-30530,TlClO4,poly_ionic,19.39,Upper,14.9775,4.705,0.94,Strong lattice polarizability / ionic soft-mode contribution
+mp-541044,CsYO2,poly_ionic,16.69,Upper,14.9775,4.705,0.36,Strong lattice polarizability / ionic soft-mode contribution
+mp-14070,RbAlO2,poly_ionic,21.22,Upper,14.9775,4.705,1.33,Strong lattice polarizability / ionic soft-mode contribution
+mp-20015,As2PbO6,poly_ionic,15.35,Upper,14.9775,4.705,0.08,Strong lattice polarizability / ionic soft-mode contribution
+mp-23036,K2SeBr6,poly_ionic,17.09,Upper,14.9775,4.705,0.45,Strong lattice polarizability / ionic soft-mode contribution
+mp-25010,NaMnO2,poly_ionic,22.96,Upper,14.9775,4.705,1.7,Strong lattice polarizability / ionic soft-mode contribution
+mp-5811,CsPbF3,poly_ionic,20.93,Upper,14.9775,4.705,1.27,Strong lattice polarizability / ionic soft-mode contribution
+mp-15788,LiYS2,poly_ionic,15.32,Upper,14.9775,4.705,0.07,Strong lattice polarizability / ionic soft-mode contribution
+mp-557772,CsNiF3,poly_ionic,15.39,Upper,14.9775,4.705,0.09,Strong lattice polarizability / ionic soft-mode contribution
+mp-30056,CsCaBr3,poly_ionic,16.85,Upper,14.9775,4.705,0.4,Strong lattice polarizability / ionic soft-mode contribution
+mp-510624,SrFeO3,poly_ionic,17.45,Upper,14.9775,4.705,0.53,Strong lattice polarizability / ionic soft-mode contribution
+mp-867192,Sr2AsAu,poly_ionic,17.44,Upper,14.9775,4.705,0.52,Strong lattice polarizability / ionic soft-mode contribution
+mp-8978,CsNbN2,poly_ionic,20.26,Upper,14.9775,4.705,1.12,Strong lattice polarizability / ionic soft-mode contribution
+mp-5606,AlTlF4,poly_ionic,94.2,Upper,14.9775,4.705,16.84,Strong lattice polarizability / ionic soft-mode contribution
+mp-20042,TlInS2,poly_ionic,35.78,Upper,14.9775,4.705,4.42,Strong lattice polarizability / ionic soft-mode contribution
+mp-5380,Ca4P2O,poly_ionic,23.89,Upper,14.9775,4.705,1.89,Strong lattice polarizability / ionic soft-mode contribution
+mp-7752,Sr3SbN,poly_ionic,26.47,Upper,14.9775,4.705,2.44,Strong lattice polarizability / ionic soft-mode contribution
+mp-614013,CsSnI3,poly_ionic,162.23,Upper,14.9775,4.705,31.3,Strong lattice polarizability / ionic soft-mode contribution
+mp-27891,Bi2SO2,poly_ionic,248.59,Upper,14.9775,4.705,49.65,Strong lattice polarizability / ionic soft-mode contribution
+mp-505297,NbSbRu,poly_ionic,15.58,Upper,14.9775,4.705,0.13,Strong lattice polarizability / ionic soft-mode contribution
+mp-27849,TiBrN,poly_ionic,39.86,Upper,14.9775,4.705,5.29,Strong lattice polarizability / ionic soft-mode contribution
+mp-3395,SrSeO3,poly_ionic,25.72,Upper,14.9775,4.705,2.28,Strong lattice polarizability / ionic soft-mode contribution
+mp-7650,RbScO2,poly_ionic,16.87,Upper,14.9775,4.705,0.4,Strong lattice polarizability / ionic soft-mode contribution
+mp-866062,HfSiRu2,poly_ionic,30.72,Upper,14.9775,4.705,3.35,Strong lattice polarizability / ionic soft-mode contribution
+mp-866141,TiFe2Si,poly_ionic,28.8,Upper,14.9775,4.705,2.94,Strong lattice polarizability / ionic soft-mode contribution
+mp-4255,Ba(CuS)2,poly_ionic,18.72,Upper,14.9775,4.705,0.8,Strong lattice polarizability / ionic soft-mode contribution
+mp-9517,SrTiN2,poly_ionic,21.46,Upper,14.9775,4.705,1.38,Strong lattice polarizability / ionic soft-mode contribution
+mp-8407,Li3LaP2,poly_ionic,19.35,Upper,14.9775,4.705,0.93,Strong lattice polarizability / ionic soft-mode contribution
+mp-541899,CsCdBr3,poly_ionic,15.26,Upper,14.9775,4.705,0.06,Strong lattice polarizability / ionic soft-mode contribution
+mp-27635,Rb2SnI6,poly_ionic,15.21,Upper,14.9775,4.705,0.05,Strong lattice polarizability / ionic soft-mode contribution
+mp-3163,BaSnO3,poly_ionic,17.04,Upper,14.9775,4.705,0.44,Strong lattice polarizability / ionic soft-mode contribution
+mp-10616,BaLiAs,poly_ionic,15.17,Upper,14.9775,4.705,0.04,Strong lattice polarizability / ionic soft-mode contribution
+mp-570008,Sr3BiN,poly_ionic,26.51,Upper,14.9775,4.705,2.45,Strong lattice polarizability / ionic soft-mode contribution
+mp-5431,BaTeO3,poly_ionic,15.67,Upper,14.9775,4.705,0.15,Strong lattice polarizability / ionic soft-mode contribution
+mp-10322,BaHfN2,poly_ionic,22.69,Upper,14.9775,4.705,1.64,Strong lattice polarizability / ionic soft-mode contribution
+mp-29763,RbMnBr3,poly_ionic,17.17,Upper,14.9775,4.705,0.47,Strong lattice polarizability / ionic soft-mode contribution
+mp-10402,TiTl2F6,poly_ionic,39.01,Upper,14.9775,4.705,5.11,Strong lattice polarizability / ionic soft-mode contribution
+mp-12908,ScAgSe2,poly_ionic,16.32,Upper,14.9775,4.705,0.29,Strong lattice polarizability / ionic soft-mode contribution
+mp-866132,Na2TlSb,poly_ionic,136.15,Upper,14.9775,4.705,25.75,Strong lattice polarizability / ionic soft-mode contribution
+mp-20282,CsPbF3,poly_ionic,17.11,Upper,14.9775,4.705,0.45,Strong lattice polarizability / ionic soft-mode contribution
+mp-5513,Tl3VS4,poly_ionic,16.01,Upper,14.9775,4.705,0.22,Strong lattice polarizability / ionic soft-mode contribution
+mp-10401,Tl2SnF6,poly_ionic,38.91,Upper,14.9775,4.705,5.09,Strong lattice polarizability / ionic soft-mode contribution
+mp-31149,Ca3BiN,poly_ionic,18.38,Upper,14.9775,4.705,0.72,Strong lattice polarizability / ionic soft-mode contribution
+mp-11824,Ca3PN,poly_ionic,41.92,Upper,14.9775,4.705,5.73,Strong lattice polarizability / ionic soft-mode contribution
+mp-23072,BiBrO,poly_ionic,40.87,Upper,14.9775,4.705,5.5,Strong lattice polarizability / ionic soft-mode contribution
+mp-4547,La2TeO2,poly_ionic,15.58,Upper,14.9775,4.705,0.13,Strong lattice polarizability / ionic soft-mode contribution
+mp-27850,TiNCl,poly_ionic,50.86,Upper,14.9775,4.705,7.63,Strong lattice polarizability / ionic soft-mode contribution
+mp-12814,Ba3SbN,poly_ionic,30.78,Upper,14.9775,4.705,3.36,Strong lattice polarizability / ionic soft-mode contribution
+mp-30055,Rb3BrO,poly_ionic,19.63,Upper,14.9775,4.705,0.99,Strong lattice polarizability / ionic soft-mode contribution
+mp-14791,Ge2Te5As2,poly_ionic,15.08,Upper,14.9775,4.705,0.02,Strong lattice polarizability / ionic soft-mode contribution
+mp-9437,NbFeSb,poly_ionic,20.41,Upper,14.9775,4.705,1.15,Strong lattice polarizability / ionic soft-mode contribution
+mp-8405,Li3LaSb2,poly_ionic,15.01,Upper,14.9775,4.705,0.01,Strong lattice polarizability / ionic soft-mode contribution
+mp-690794,Sr2HN,poly_ionic,15.87,Upper,14.9775,4.705,0.19,Strong lattice polarizability / ionic soft-mode contribution
+mp-16238,Li2AgSb,poly_ionic,19.99,Upper,14.9775,4.705,1.07,Strong lattice polarizability / ionic soft-mode contribution
+mp-4405,Rb3AuO,poly_ionic,16.03,Upper,14.9775,4.705,0.22,Strong lattice polarizability / ionic soft-mode contribution
+mp-2693,SnSe,n,6.76,Upper,4.17,0.96,2.7,High refractive index optical / infrared transparent material
+mp-1285,PtO2,n,4.62,Upper,4.17,0.96,0.47,High refractive index optical / infrared transparent material
+mp-760,FeSe2,n,5.17,Upper,4.17,0.96,1.04,High refractive index optical / infrared transparent material
+mp-1522,FeS2,n,4.59,Upper,4.17,0.96,0.44,High refractive index optical / infrared transparent material
+mp-28266,P2Pd,n,4.75,Upper,4.17,0.96,0.6,High refractive index optical / infrared transparent material
+mp-487,MnP4,n,4.42,Upper,4.17,0.96,0.26,High refractive index optical / infrared transparent material
+mp-871,FeSi,n,9.53,Upper,4.17,0.96,5.58,High refractive index optical / infrared transparent material
+mp-1317,CoSb3,n,9.05,Upper,4.17,0.96,5.08,High refractive index optical / infrared transparent material
+mp-730,P2Pt,n,4.43,Upper,4.17,0.96,0.27,High refractive index optical / infrared transparent material
+mp-570553,FeP4,n,4.41,Upper,4.17,0.96,0.25,High refractive index optical / infrared transparent material
+mp-1922,RuSe2,n,4.43,Upper,4.17,0.96,0.27,High refractive index optical / infrared transparent material
+mp-17173,Rh2S3,n,5.03,Upper,4.17,0.96,0.9,High refractive index optical / infrared transparent material
+mp-2008,FeAs2,n,5.53,Upper,4.17,0.96,1.42,High refractive index optical / infrared transparent material
+mp-20027,FeP2,n,4.8,Upper,4.17,0.96,0.66,High refractive index optical / infrared transparent material
+mp-15661,Sc4C3,n,5.35,Upper,4.17,0.96,1.23,High refractive index optical / infrared transparent material
+mp-15649,As2Ir,n,4.62,Upper,4.17,0.96,0.47,High refractive index optical / infrared transparent material
+mp-1247,Sb2Ir,n,4.99,Upper,4.17,0.96,0.85,High refractive index optical / infrared transparent material
+mp-226,FeS2,n,4.61,Upper,4.17,0.96,0.46,High refractive index optical / infrared transparent material
+mp-8281,Ba(CdAs)2,n,9.88,Upper,4.17,0.96,5.95,High refractive index optical / infrared transparent material
+mp-30460,YNiBi,n,5.17,Upper,4.17,0.96,1.04,High refractive index optical / infrared transparent material
+mp-11869,HfSnPd,n,4.43,Upper,4.17,0.96,0.27,High refractive index optical / infrared transparent material
+mp-9919,LiZnSb,n,4.43,Upper,4.17,0.96,0.27,High refractive index optical / infrared transparent material
+mp-10667,SrAgP,n,16.03,Upper,4.17,0.96,12.35,High refractive index optical / infrared transparent material
+mp-15687,KZnAs,n,5.74,Upper,4.17,0.96,1.64,High refractive index optical / infrared transparent material
+mp-862631,Ba2SbAu,n,4.34,Upper,4.17,0.96,0.18,High refractive index optical / infrared transparent material
+mp-570213,LiMgBi,n,4.42,Upper,4.17,0.96,0.26,High refractive index optical / infrared transparent material
+mp-3432,ScNiSb,n,4.29,Upper,4.17,0.96,0.13,High refractive index optical / infrared transparent material
+mp-15988,Li2CuSb,n,4.46,Upper,4.17,0.96,0.3,High refractive index optical / infrared transparent material
+mp-510624,SrFeO3,n,7.31,Upper,4.17,0.96,3.27,High refractive index optical / infrared transparent material
+mp-7435,KCuSe,n,6.78,Upper,4.17,0.96,2.72,High refractive index optical / infrared transparent material
+mp-867192,Sr2AsAu,n,4.76,Upper,4.17,0.96,0.61,High refractive index optical / infrared transparent material
+mp-867168,Sr2SbAu,n,4.73,Upper,4.17,0.96,0.58,High refractive index optical / infrared transparent material
+mp-7421,KZnAs,n,5.89,Upper,4.17,0.96,1.79,High refractive index optical / infrared transparent material
+mp-2894,ScSnAu,n,4.63,Upper,4.17,0.96,0.48,High refractive index optical / infrared transparent material
+mp-569779,ScSbPd,n,4.26,Upper,4.17,0.96,0.09,High refractive index optical / infrared transparent material
+mp-505297,NbSbRu,n,4.8,Upper,4.17,0.96,0.66,High refractive index optical / infrared transparent material
+mp-7771,Sr(CdAs)2,n,11.71,Upper,4.17,0.96,7.85,High refractive index optical / infrared transparent material
+mp-9899,BaAgP,n,5.31,Upper,4.17,0.96,1.19,High refractive index optical / infrared transparent material
+mp-866062,HfSiRu2,n,7.16,Upper,4.17,0.96,3.11,High refractive index optical / infrared transparent material
+mp-866141,TiFe2Si,n,6.11,Upper,4.17,0.96,2.02,High refractive index optical / infrared transparent material
+mp-7173,ScSbPt,n,4.39,Upper,4.17,0.96,0.23,High refractive index optical / infrared transparent material
+mp-570008,Sr3BiN,n,4.48,Upper,4.17,0.96,0.32,High refractive index optical / infrared transparent material
+mp-31454,TaSbRu,n,4.44,Upper,4.17,0.96,0.28,High refractive index optical / infrared transparent material
+mp-30847,TiSnPt,n,4.56,Upper,4.17,0.96,0.41,High refractive index optical / infrared transparent material
+mp-7430,Ca(CdSb)2,n,6.26,Upper,4.17,0.96,2.18,High refractive index optical / infrared transparent material
+mp-866132,Na2TlSb,n,6.03,Upper,4.17,0.96,1.94,High refractive index optical / infrared transparent material
+mp-7438,KZnSb,n,4.98,Upper,4.17,0.96,0.84,High refractive index optical / infrared transparent material
+mp-7067,Ca(CdAs)2,n,6.28,Upper,4.17,0.96,2.2,High refractive index optical / infrared transparent material
+mp-5967,TiCoSb,n,4.53,Upper,4.17,0.96,0.38,High refractive index optical / infrared transparent material
+mp-11520,YNiSb,n,4.33,Upper,4.17,0.96,0.17,High refractive index optical / infrared transparent material
+mp-14791,Ge2Te5As2,n,8.04,Upper,4.17,0.96,4.03,High refractive index optical / infrared transparent material
+mp-9437,NbFeSb,n,4.98,Upper,4.17,0.96,0.84,High refractive index optical / infrared transparent material
+mp-10161,KZnSb,n,4.91,Upper,4.17,0.96,0.77,High refractive index optical / infrared transparent material
+mp-30459,ScNiBi,n,4.79,Upper,4.17,0.96,0.65,High refractive index optical / infrared transparent material
+mp-16238,Li2AgSb,n,14.58,Upper,4.17,0.96,10.84,High refractive index optical / infrared transparent material
+mp-8177,HgF2,density,8.7733,Upper,8.2882,2.1018,0.23,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-617,PtO2,density,9.1986,Upper,8.2882,2.1018,0.43,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-1285,PtO2,density,11.2495,Upper,8.2882,2.1018,1.41,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-352,HfO2,density,9.9677,Upper,8.2882,2.1018,0.8,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-730,P2Pt,density,8.9578,Upper,8.2882,2.1018,0.32,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-27488,Ta3N5,density,9.7462,Upper,8.2882,2.1018,0.69,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-1224,HgO,density,9.849,Upper,8.2882,2.1018,0.74,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-541582,ReSe2,density,8.3787,Upper,8.2882,2.1018,0.04,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-7826,HgO,density,9.8588,Upper,8.2882,2.1018,0.75,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-7868,PtO2,density,9.2183,Upper,8.2882,2.1018,0.44,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-15649,As2Ir,density,10.4537,Upper,8.2882,2.1018,1.03,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-1247,Sb2Ir,density,10.5689,Upper,8.2882,2.1018,1.09,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-19372,WO2,density,9.5983,Upper,8.2882,2.1018,0.62,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-30460,YNiBi,density,8.6341,Upper,8.2882,2.1018,0.16,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-11869,HfSnPd,density,10.4038,Upper,8.2882,2.1018,1.01,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-8208,Mg(PtO2)3,density,10.0616,Upper,8.2882,2.1018,0.84,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-753594,BiOF,density,8.6599,Upper,8.2882,2.1018,0.18,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-8207,Zn(PtO2)3,density,10.608,Upper,8.2882,2.1018,1.1,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-2894,ScSnAu,density,8.6353,Upper,8.2882,2.1018,0.17,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-8212,Cd(PtO2)3,density,10.7682,Upper,8.2882,2.1018,1.18,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-27891,Bi2SO2,density,8.7376,Upper,8.2882,2.1018,0.21,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-505297,NbSbRu,density,8.7904,Upper,8.2882,2.1018,0.24,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-23074,BiOF,density,9.0375,Upper,8.2882,2.1018,0.36,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-866062,HfSiRu2,density,11.4514,Upper,8.2882,2.1018,1.5,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-7173,ScSbPt,density,9.1985,Upper,8.2882,2.1018,0.43,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-31454,TaSbRu,density,11.2886,Upper,8.2882,2.1018,1.43,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-30847,TiSnPt,density,9.9257,Upper,8.2882,2.1018,0.78,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-9437,NbFeSb,density,8.4487,Upper,8.2882,2.1018,0.08,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-30459,ScNiBi,density,8.4815,Upper,8.2882,2.1018,0.09,"Heavy-element dense compound (Bi, Pb, Tl, Ta, W based)"
+mp-23189,BI3,volume,419.2485,Upper,385.8725,115.8441,0.29,Large unit-cell complex crystal structure
+mp-7449,Cs2Se3,volume,407.9371,Upper,385.8725,115.8441,0.19,Large unit-cell complex crystal structure
+mp-1106,Sr2Si,volume,402.724,Upper,385.8725,115.8441,0.15,Large unit-cell complex crystal structure
+mp-568536,BaI2,volume,391.8805,Upper,385.8725,115.8441,0.05,Large unit-cell complex crystal structure
+mp-9062,RbS,volume,431.417,Upper,385.8725,115.8441,0.39,Large unit-cell complex crystal structure
+mp-22908,BiCl3,volume,501.0376,Upper,385.8725,115.8441,0.99,Large unit-cell complex crystal structure
+mp-23312,MoBr3,volume,565.3724,Upper,385.8725,115.8441,1.55,Large unit-cell complex crystal structure
+mp-9063,RbSe,volume,489.3398,Upper,385.8725,115.8441,0.89,Large unit-cell complex crystal structure
+mp-23280,AsCl3,volume,582.0853,Upper,385.8725,115.8441,1.69,Large unit-cell complex crystal structure
+mp-557308,ZnS,volume,405.1654,Upper,385.8725,115.8441,0.17,Large unit-cell complex crystal structure
+mp-9064,RbTe,volume,590.1361,Upper,385.8725,115.8441,1.76,Large unit-cell complex crystal structure
+mp-23230,PCl3,volume,590.6373,Upper,385.8725,115.8441,1.77,Large unit-cell complex crystal structure
+mp-27529,PI3,volume,406.9525,Upper,385.8725,115.8441,0.18,Large unit-cell complex crystal structure
+mp-7441,KP,volume,461.7539,Upper,385.8725,115.8441,0.66,Large unit-cell complex crystal structure
+mp-1554,KTe,volume,527.6804,Upper,385.8725,115.8441,1.22,Large unit-cell complex crystal structure
+mp-22872,SbCl3,volume,576.3873,Upper,385.8725,115.8441,1.64,Large unit-cell complex crystal structure
+mp-2160,Sb2Se3,volume,597.3411,Upper,385.8725,115.8441,1.83,Large unit-cell complex crystal structure
+mp-22855,HgCl2,volume,391.7835,Upper,385.8725,115.8441,0.05,Large unit-cell complex crystal structure
+mp-2184,As2O3,volume,398.7664,Upper,385.8725,115.8441,0.11,Large unit-cell complex crystal structure
+mp-7623,MgAs4,volume,482.4204,Upper,385.8725,115.8441,0.83,Large unit-cell complex crystal structure
+mp-30106,AsCl5,volume,423.5658,Upper,385.8725,115.8441,0.33,Large unit-cell complex crystal structure
+mp-561258,ZnS,volume,405.046,Upper,385.8725,115.8441,0.17,Large unit-cell complex crystal structure
+mp-713,KAs,volume,525.0353,Upper,385.8725,115.8441,1.2,Large unit-cell complex crystal structure
+mp-30275,BaP8,volume,408.5695,Upper,385.8725,115.8441,0.2,Large unit-cell complex crystal structure
+mp-502,As4S5,volume,553.1612,Upper,385.8725,115.8441,1.44,Large unit-cell complex crystal structure
+mp-14289,Ba3P4,volume,431.699,Upper,385.8725,115.8441,0.4,Large unit-cell complex crystal structure
+mp-23290,PtCl2,volume,516.2081,Upper,385.8725,115.8441,1.13,Large unit-cell complex crystal structure
+mp-542846,AsS,volume,490.915,Upper,385.8725,115.8441,0.91,Large unit-cell complex crystal structure
+mp-7944,NaSb,volume,489.0814,Upper,385.8725,115.8441,0.89,Large unit-cell complex crystal structure
+mp-401,Sc2S3,volume,430.3704,Upper,385.8725,115.8441,0.38,Large unit-cell complex crystal structure
+mp-864746,MoBr3,volume,552.2349,Upper,385.8725,115.8441,1.44,Large unit-cell complex crystal structure
+mp-540957,Cs2TeI6,volume,439.139,Upper,385.8725,115.8441,0.46,Large unit-cell complex crystal structure
+mp-8720,Rb2MnTe2,volume,410.6888,Upper,385.8725,115.8441,0.21,Large unit-cell complex crystal structure
+mp-29398,Cs2HfI6,volume,432.4912,Upper,385.8725,115.8441,0.4,Large unit-cell complex crystal structure
+mp-569066,Cs2PdI6,volume,407.0036,Upper,385.8725,115.8441,0.18,Large unit-cell complex crystal structure
+mp-27635,Rb2SnI6,volume,416.1889,Upper,385.8725,115.8441,0.26,Large unit-cell complex crystal structure
+mp-23060,Cs2PtI6,volume,404.3331,Upper,385.8725,115.8441,0.16,Large unit-cell complex crystal structure

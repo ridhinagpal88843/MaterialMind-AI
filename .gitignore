@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Node & Frontend dependencies
+frontend/node_modules/
+frontend/.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary browser session media
+.system_generated/
+.tempmediaStorage/
+.user_uploaded/
+scratch/
+
+# Ensure required ML models and datasets are ALWAYS tracked
+!models/final_scaler.joblib
+!models/kmeans.joblib
+!data/processed/materials_clustered.csv
+!data/processed/cluster_profiles.csv
+!data/processed/pca_coordinates.csv
+!data/processed/clustering_metrics.json
