@@ -328,29 +328,25 @@ export function GoogleInshortsButton({ className = "" }) {
     <>
       <button
         onClick={() => setIsOpen(true)}
-        className={`relative group flex items-center gap-1.5 px-2 py-1 rounded-full bg-space-surface/90 hover:bg-space-card border border-white/15 hover:border-accent-cyan/40 shadow-sm transition-all duration-200 active:scale-95 focus:outline-none ${className}`}
+        className={`relative group flex items-center gap-2 px-3 py-1.5 rounded-lg bg-space-card/90 hover:bg-space-surface border border-white/20 hover:border-accent-cyan/60 shadow-md shadow-black/40 hover:shadow-accent-cyan/20 transition-all duration-200 active:scale-95 focus:outline-none ${className}`}
         title="Google Inshorts — 60-Sec Scientific Briefs"
         aria-label="Google Inshorts"
       >
         {/* Minute Google G Icon */}
-        <div className="w-4 h-4 flex items-center justify-center shrink-0">
+        <div className="w-5 h-5 rounded-md bg-white/10 flex items-center justify-center shrink-0 border border-white/10 p-0.5 shadow-sm">
           <GoogleGIcon className="w-3.5 h-3.5" />
         </div>
 
-        {/* Small Inshorts Text Badge */}
-        <span className="text-[11px] font-mono font-medium tracking-tight text-slate-300 group-hover:text-white hidden sm:inline">
-          Inshorts
+        {/* Small Google Inshorts Text Badge */}
+        <span className="text-xs font-mono font-semibold tracking-tight text-white flex items-center gap-1">
+          <span className="text-slate-200 hidden xl:inline">Google</span>
+          <span className="text-[#FF5722]">Inshorts</span>
         </span>
 
-        {/* Tiny pulsing news notification beacon */}
-        <span className="relative flex h-1.5 w-1.5">
+        {/* Pulsing live news notification beacon */}
+        <span className="relative flex h-2 w-2">
           <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#FF5722] opacity-75"></span>
-          <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-[#FF5722]"></span>
-        </span>
-
-        {/* Micro Tooltip */}
-        <span className="pointer-events-none absolute -bottom-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap rounded bg-space-dark/95 border border-white/15 px-2 py-0.5 text-[10px] font-mono text-slate-200 shadow-xl z-50">
-          Google Inshorts (60s Briefs)
+          <span className="relative inline-flex rounded-full h-2 w-2 bg-[#FF5722]"></span>
         </span>
       </button>
 

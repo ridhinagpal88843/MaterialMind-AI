@@ -116,7 +116,10 @@ def root(request: Request):
     accept = request.headers.get("accept", "")
     index_path = FRONTEND_DIST_DIR / "index.html"
     if "text/html" in accept and index_path.exists():
-        return FileResponse(index_path)
+        return FileResponse(
+            index_path, 
+            headers={"Cache-Control": "no-cache, no-store, must-revalidate", "Pragma": "no-cache", "Expires": "0"}
+        )
     return {
         "title": API_TITLE,
         "version": API_VERSION,
@@ -146,7 +149,10 @@ async def serve_spa(full_path: str):
 
     index_path = FRONTEND_DIST_DIR / "index.html"
     if index_path.exists():
-        return FileResponse(index_path)
+        return FileResponse(
+            index_path,
+            headers={"Cache-Control": "no-cache, no-store, must-revalidate", "Pragma": "no-cache", "Expires": "0"}
+        )
     return Response(
         content=f'{{"detail":"Resource not found: {full_path}"}}',
         media_type="application/json",
