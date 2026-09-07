@@ -12,6 +12,7 @@ import {
   Activity
 } from 'lucide-react';
 import { getHealth } from '../api';
+import GoogleInshortsButton from './GoogleInshortsModal';
 
 const navItems = [
   { name: 'Explorer', path: '/explorer', icon: Compass },
@@ -104,7 +105,10 @@ export default function Navbar() {
         </div>
 
         {/* Status indicator & Actions */}
-        <div className="hidden sm:flex items-center gap-4">
+        <div className="hidden sm:flex items-center gap-3">
+          {/* Minute Google Inshorts Button */}
+          <GoogleInshortsButton />
+
           <div className="flex items-center gap-2 px-2.5 py-1 rounded-full bg-space-surface border border-white/10 text-xs font-mono">
             <span className={`w-2 h-2 rounded-full ${
               apiOnline 
@@ -125,14 +129,18 @@ export default function Navbar() {
           </Link>
         </div>
 
-        {/* Mobile Hamburger Button */}
-        <button
-          onClick={() => setIsOpen(!isOpen)}
-          className="lg:hidden p-2 rounded-lg bg-space-card border border-white/10 text-slate-300 hover:text-white focus:outline-none"
-          aria-label="Toggle Navigation"
-        >
-          {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-        </button>
+        {/* Mobile Header Right Actions & Hamburger Button */}
+        <div className="flex items-center gap-2 lg:hidden">
+          <GoogleInshortsButton />
+
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="p-2 rounded-lg bg-space-card border border-white/10 text-slate-300 hover:text-white focus:outline-none"
+            aria-label="Toggle Navigation"
+          >
+            {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
       </div>
 
       {/* Mobile Menu Dropdown */}

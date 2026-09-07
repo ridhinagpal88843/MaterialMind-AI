@@ -37,6 +37,7 @@ Thumbs.db
 .tempmediaStorage/
 .user_uploaded/
 scratch/
+*.zip
 
 # Ensure required ML models and datasets are ALWAYS tracked
 !models/final_scaler.joblib
